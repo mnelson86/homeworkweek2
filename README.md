@@ -1,3 +1,3 @@
-# homeworkweek2.1
+# mattnelsonpersonalwebpage
 Personal webpage for myself, Matt Nelson. 
-Created as a homework assignment
+
